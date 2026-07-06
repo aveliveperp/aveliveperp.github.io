@@ -11,6 +11,7 @@ window.LIVE_ROOMS = [
     poster: 'assets/live1/11.png',
     link: 'https://meeting.tencent.com/dm/szM2WYP9rONA',
   },
+  
   // {
   //   name: 'lianke',
   //   title: '链客社区直播间',
