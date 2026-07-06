@@ -17,6 +17,7 @@ window.LIVE_ROOMS = [
   //   poster: 'assets/live1/31.png',
   //   link: 'https://app.binance.com/uni-qr/cspa/42234211071386?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
   // },
+  
   // {
   //   name: 'qianfeng',
   //   title: '清风社区直播间',
