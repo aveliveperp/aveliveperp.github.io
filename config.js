@@ -13,10 +13,10 @@ window.LIVE_ROOMS = [
   },
   
   {
-    name: 'qingfeng',
-    title: '清风社区直播间',
-    poster: 'assets/live1/33.png',
-    link: 'https://www.binance.com/zh-CN/square/audio?id=42720980792242',
+    name: 'lianke',
+    title: '链客社区直播间',
+    poster: 'assets/live1/333.png',
+    link: 'https://app.binance.com/uni-qr/cspa/42763331382490?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
   },
   
   // {
