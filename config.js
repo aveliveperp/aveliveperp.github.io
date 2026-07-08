@@ -20,7 +20,7 @@ window.LIVE_ROOMS = [
   },
   
   {
-    name: 'qing'feng',
+    name: 'qingfeng',
     title: '清风社区直播间',
     poster: 'assets/live1/55.png',
     link: 'https://x.com/i/broadcasts/1XGyggppPadxM',
