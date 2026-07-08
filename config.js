@@ -16,13 +16,13 @@ window.LIVE_ROOMS = [
     name: 'lianke',
     title: '链客社区直播间',
     poster: 'assets/live1/333.png',
-    link: 'https://app.binance.com/uni-qr/cspa/42763331382490?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
+    link: 'https://app.binance.com/uni-qr/cspa/42801940264154?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
   },
   
-  // {
-  //   name: 'lianke',
-  //   title: '链客社区直播间',
-  //   poster: 'assets/live1/31.png',
-  //   link: 'https://app.binance.com/uni-qr/cspa/42234211071386?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
-  // },
+  {
+    name: 'qing'feng',
+    title: '清风社区直播间',
+    poster: 'assets/live1/55.png',
+    link: 'https://x.com/i/broadcasts/1XGyggppPadxM',
+  },
 ];
