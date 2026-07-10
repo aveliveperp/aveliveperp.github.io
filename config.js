@@ -19,10 +19,10 @@ window.LIVE_ROOMS = [
     link: 'https://app.binance.com/uni-qr/cspa/42856032170657?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
   },
   
-  {
-    name: 'qingfeng',
-    title: '清风社区直播间',
-    poster: 'assets/live1/55.png',
-    link: 'https://x.com/i/broadcasts/1AKEmmdmNdgKL',
-  },
+  // {
+  //   name: 'qingfeng',
+  //   title: '清风社区直播间',
+  //   poster: 'assets/live1/55.png',
+  //   link: 'https://x.com/i/broadcasts/1AKEmmdmNdgKL',
+  // },
 ];
