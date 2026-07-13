@@ -12,12 +12,12 @@ window.LIVE_ROOMS = [
     link: 'https://meeting.tencent.com/dm/x0yYo8OgeLNs',
   },
   
-  {
-    name: 'lianke',
-    title: '链客社区直播间',
-    poster: 'assets/live1/333.png',
-    link: 'https://app.binance.com/uni-qr/cspa/42901235290785?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
-  },
+  // {
+  //   name: 'lianke',
+  //   title: '链客社区直播间',
+  //   poster: 'assets/live1/333.png',
+  //   link: 'https://app.binance.com/uni-qr/cspa/42901235290785?l=zh-CN&r=KCZ9AOOX&source=host_share&uc=web_square_share_link&us=copylink',
+  // },
   
   // {
   //   name: 'qingfeng',
