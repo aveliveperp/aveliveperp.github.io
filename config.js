@@ -9,7 +9,7 @@ window.LIVE_ROOMS = [
     name: 'ruiying',
     title: '瑞应社区直播间',
     poster: 'assets/live1/11.png',
-    link: 'https://meeting.tencent.com/dm/12X6UAxdTUF4',
+    link: 'https://meeting.tencent.com/dm/k1MoeHimqCBo',
   },
   
   // {
