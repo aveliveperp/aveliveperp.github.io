@@ -2,13 +2,13 @@ window.LIVE_ROOMS = [
   {
     name: 'babu',
     title: '巴布社区直播间',
-    poster: 'assets/live1/34.png',
+    poster: 'assets/live1/65.png',
     link: 'https://meeting.tencent.com/dm/1RMXYW2in0Ix',
   },
   {
     name: 'ruiying',
     title: '瑞应社区直播间',
-    poster: 'assets/live1/12.png',
+    poster: 'assets/live1/56.png',
     link: 'https://meeting.tencent.com/dm/Htwje9YaIl28',
   },
   
