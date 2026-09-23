@@ -5,12 +5,12 @@ window.LIVE_ROOMS = [
     poster: 'assets/live1/66.png',
     link: 'https://meeting.tencent.com/dm/1ZGjX6sY9Ecy',
   },
-  // {
-  //   name: 'ruiying',
-  //   title: '瑞应社区直播间',
-  //   poster: 'assets/live1/90.png',
-  //   link: 'https://meeting.tencent.com/dm/tHbeFcAg7RrF',
-  // },
+  {
+    name: 'ruiying',
+    title: '瑞应社区直播间',
+    poster: 'assets/live1/90.png',
+    link: 'https://meeting.tencent.com/dm/lcSWIvNHVO1L',
+  },
   
   // {
   //   name: 'lianke',
