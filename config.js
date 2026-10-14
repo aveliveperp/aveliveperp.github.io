@@ -1,16 +1,16 @@
 window.LIVE_ROOMS = [
-  {
-    name: 'babu',
-    title: '巴布社区直播间',
-    poster: 'assets/live1/66.png',
-    link: 'https://meeting.tencent.com/dm/mWKctOf3Z5Dt',
-  },
   // {
-  //   name: 'ruiying',
-  //   title: '瑞应社区直播间',
-  //   poster: 'assets/live1/90.png',
-  //   link: 'https://meeting.tencent.com/dm/8fvGwNg6PjUj',
+  //   name: 'babu',
+  //   title: '巴布社区直播间',
+  //   poster: 'assets/live1/66.png',
+  //   link: 'https://meeting.tencent.com/dm/mWKctOf3Z5Dt',
   // },
+  {
+    name: 'ruiying',
+    title: '瑞应社区直播间',
+    poster: 'assets/live1/90.png',
+    link: 'https://meeting.tencent.com/dm/o7wDTmj0xnmx',
+  },
   
   // {
   //   name: 'lianke',
